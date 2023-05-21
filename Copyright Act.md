@@ -1,4 +1,4 @@
-# 著作權 (Copyright Act)
+# 著作權 (Copyright Act) [全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=J0070017)
 - 著作人: 創作該作品的著作人
 - 著作: 包含 文學、科學、藝術等
 - 著作權: 俗稱 版權，著作權人對其作品所擁有的權利
